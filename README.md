@@ -42,9 +42,6 @@ You divide 20 rolls into frams of 2 each
 * If you get a perfect game your game totals to 300.
 
 
-
-
-
 This repo was tested with [idea](https://www.jetbrains.com/idea) [2020.3.1](https://confluence.jetbrains.com/display/IDEADEV/IntelliJ+IDEA+2020.3.1+%28203.6682.168+build%29+Release+Notes), if you encounter problems please open an issue or send a pull request.
 
 Have fun!
